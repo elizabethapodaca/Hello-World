@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-Creating a new repository in github for the hello-World program
+This is my first attempt at a read me file and a branch in Github.
